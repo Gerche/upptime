@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/celta.be.ico",
     "slug": "celta",
     "status": "up",
-    "uptime": "4.49%",
-    "uptimeDay": "4.49%",
-    "uptimeWeek": "4.49%",
-    "uptimeMonth": "4.49%",
-    "uptimeYear": "4.49%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1090,
     "timeDay": 1090,
     "timeWeek": 1090,
     "timeMonth": 1090,
     "timeYear": 1090,
-    "dailyMinutesDown": {
-      "2025-07-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
