@@ -12,14 +12,17 @@ sites:
     url: https://www.flyinggroup.aero
   - name: Salkaperu
     url: https://salkaperu.be
+    icon: https://salkaperu.be/wp-content/uploads/2024/10/cropped-favicon-32x32.png
   - name: Vissaversa
     url: https://vissaversa.com
   - name: Momocollective
     url: https://momocollective.be
   - name: Boon
     url: https://boon.be
+    icon: https://boon.be/favicon.ico
   - name: Horal
     url: https://horal.be
+    icon: https://horal.be/wp-content/uploads/2022/12/cropped-Horal-fav-02-32x32.png
   - name: Floordenil
     url: https://floordenil.com
 assignees:
