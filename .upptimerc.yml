@@ -33,7 +33,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://celta.be/wp-content/uploads/2024/04/logo.svg
   name: Upptime
   introTitle: "The **Celta** webservices monitor powered by GitHub."
   introMessage: This is an open-source uptime monitor and status page, which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
