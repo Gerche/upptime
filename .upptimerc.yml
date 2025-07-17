@@ -5,19 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: Celta
     url: https://celta.be
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Sels
+    url: https://sels.be
+  - name: Flyinggroup
+    url: https://www.flyinggroup.aero
+  - name: Salkaperu
+    url: https://salkaperu.be
+  - name: Vissaversa
+    url: https://vissaversa.com
+  - name: Momocollective
+    url: https://momocollective.be
+  - name: Boon
+    url: https://boon.be
+  - name: Horal
+    url: https://horal.be
+  - name: Floordenil
+    url: https://floordenil.com
 assignees:
   - Gerche
 
