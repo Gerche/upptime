@@ -1,7 +1,7 @@
 url: https://www.flyinggroup.aero
-status: up
-code: 200
-responseTime: 3389
-lastUpdated: 2025-08-05T23:01:48.173Z
+status: down
+code: 503
+responseTime: 1042
+lastUpdated: 2025-08-05T23:37:01.665Z
 startTime: 2025-07-17T09:13:27.457Z
 generator: Upptime <https://github.com/upptime/upptime>
