@@ -4,19 +4,19 @@
     "url": "https://celta.be",
     "icon": "https://icons.duckduckgo.com/ip3/celta.be.ico",
     "slug": "celta",
-    "status": "up",
-    "uptime": "93.15%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "93.15%",
+    "status": "down",
+    "uptime": "93.23%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "93.23%",
     "time": 1507,
-    "timeDay": 885,
+    "timeDay": 870,
     "timeWeek": 834,
     "timeMonth": 1507,
     "timeYear": 1507,
     "dailyMinutesDown": {
-      "2025-08-12": 108,
+      "2025-08-12": 109,
       "2025-08-11": 135,
       "2025-08-10": 91,
       "2025-08-09": 40,
@@ -37,8 +37,7 @@
       "2025-07-24": 59,
       "2025-07-23": 113,
       "2025-07-22": 108,
-      "2025-07-21": 39,
-      "2025-07-20": 25
+      "2025-07-21": 39
     }
   },
   {
@@ -104,19 +103,19 @@
     "url": "https://vissaversa.com",
     "icon": "https://icons.duckduckgo.com/ip3/vissaversa.com.ico",
     "slug": "vissaversa",
-    "status": "up",
-    "uptime": "93.14%",
-    "uptimeDay": "90.19%",
-    "uptimeWeek": "91.29%",
-    "uptimeMonth": "93.14%",
-    "uptimeYear": "93.14%",
+    "status": "down",
+    "uptime": "93.27%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "91.28%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "93.27%",
     "time": 804,
-    "timeDay": 733,
+    "timeDay": 700,
     "timeWeek": 802,
     "timeMonth": 804,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2025-08-12": 107,
+      "2025-08-12": 108,
       "2025-08-11": 134,
       "2025-08-10": 91,
       "2025-08-09": 40,
@@ -138,7 +137,7 @@
       "2025-07-23": 112,
       "2025-07-22": 107,
       "2025-07-21": 38,
-      "2025-07-20": 66
+      "2025-07-20": 25
     }
   },
   {
@@ -189,9 +188,9 @@
     "url": "https://horal.be",
     "icon": "https://horal.be/wp-content/uploads/2022/12/cropped-Horal-fav-02-32x32.png",
     "slug": "horal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -201,6 +200,7 @@
     "timeMonth": 1227,
     "timeYear": 1227,
     "dailyMinutesDown": {
+      "2025-08-12": 0,
       "2025-07-26": 22
     }
   },
@@ -209,14 +209,14 @@
     "url": "https://floordenil.com",
     "icon": "https://icons.duckduckgo.com/ip3/floordenil.com.ico",
     "slug": "floordenil",
-    "status": "up",
-    "uptime": "92.98%",
-    "uptimeDay": "90.31%",
+    "status": "down",
+    "uptime": "93.05%",
+    "uptimeDay": "91.36%",
     "uptimeWeek": "91.81%",
-    "uptimeMonth": "92.98%",
-    "uptimeYear": "92.98%",
+    "uptimeMonth": "93.05%",
+    "uptimeYear": "93.05%",
     "time": 844,
-    "timeDay": 773,
+    "timeDay": 729,
     "timeWeek": 885,
     "timeMonth": 844,
     "timeYear": 844,
@@ -244,8 +244,7 @@
       "2025-07-22": 106,
       "2025-07-21": 37,
       "2025-07-20": 65,
-      "2025-07-18": 95,
-      "2025-07-17": 18
+      "2025-07-18": 95
     }
   }
 ]
