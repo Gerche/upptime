@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/celta.be.ico",
     "slug": "celta",
     "status": "up",
-    "uptime": "94.49%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "92.15%",
-    "uptimeMonth": "94.38%",
-    "uptimeYear": "94.49%",
+    "uptime": "94.47%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "92.24%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "94.47%",
     "time": 1374,
-    "timeDay": 802,
+    "timeDay": 811,
     "timeWeek": 817,
-    "timeMonth": 1374,
+    "timeMonth": 1371,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2025-08-17": 42,
+      "2025-08-17": 33,
       "2025-08-16": 121,
       "2025-08-15": 78,
       "2025-08-14": 112,
@@ -37,7 +37,7 @@
       "2025-07-30": 81,
       "2025-07-29": 52,
       "2025-07-28": 92,
-      "2025-07-27": 6
+      "2025-07-27": 30
     }
   },
   {
@@ -54,7 +54,7 @@
     "time": 1309,
     "timeDay": 1132,
     "timeWeek": 1039,
-    "timeMonth": 1348,
+    "timeMonth": 1361,
     "timeYear": 1309,
     "dailyMinutesDown": {
       "2025-08-05": 18
@@ -74,7 +74,7 @@
     "time": 5174,
     "timeDay": 5160,
     "timeWeek": 4685,
-    "timeMonth": 5247,
+    "timeMonth": 5346,
     "timeYear": 5174,
     "dailyMinutesDown": {}
   },
@@ -92,7 +92,7 @@
     "time": 3143,
     "timeDay": 3253,
     "timeWeek": 3412,
-    "timeMonth": 3175,
+    "timeMonth": 3148,
     "timeYear": 3143,
     "dailyMinutesDown": {
       "2025-08-05": 18
@@ -104,18 +104,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vissaversa.com.ico",
     "slug": "vissaversa",
     "status": "up",
-    "uptime": "94.47%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "92.53%",
-    "uptimeMonth": "94.36%",
-    "uptimeYear": "94.47%",
+    "uptime": "94.37%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "92.62%",
+    "uptimeMonth": "94.25%",
+    "uptimeYear": "94.37%",
     "time": 807,
-    "timeDay": 832,
+    "timeDay": 831,
     "timeWeek": 824,
     "timeMonth": 809,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-08-17": 26,
+      "2025-08-17": 17,
       "2025-08-16": 119,
       "2025-08-15": 62,
       "2025-08-14": 111,
@@ -136,7 +136,7 @@
       "2025-07-30": 81,
       "2025-07-29": 52,
       "2025-07-28": 91,
-      "2025-07-27": 84
+      "2025-07-27": 140
     }
   },
   {
@@ -144,18 +144,19 @@
     "url": "https://momocollective.be",
     "icon": "https://icons.duckduckgo.com/ip3/momocollective.be.ico",
     "slug": "momocollective",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.20%",
     "time": 1449,
     "timeDay": 1269,
-    "timeWeek": 1115,
-    "timeMonth": 1523,
+    "timeWeek": 1129,
+    "timeMonth": 1557,
     "timeYear": 1449,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-08-07": 98,
       "2025-08-06": 18,
       "2025-08-02": 22,
@@ -176,7 +177,7 @@
     "time": 1084,
     "timeDay": 1242,
     "timeWeek": 1087,
-    "timeMonth": 1096,
+    "timeMonth": 1104,
     "timeYear": 1084,
     "dailyMinutesDown": {
       "2025-08-05": 17
@@ -196,7 +197,7 @@
     "time": 1243,
     "timeDay": 843,
     "timeWeek": 2677,
-    "timeMonth": 1298,
+    "timeMonth": 1303,
     "timeYear": 1243,
     "dailyMinutesDown": {
       "2025-07-26": 22
@@ -208,18 +209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/floordenil.com.ico",
     "slug": "floordenil",
     "status": "up",
-    "uptime": "93.40%",
-    "uptimeDay": "95.38%",
-    "uptimeWeek": "88.45%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "93.40%",
+    "uptime": "93.35%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "88.53%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "93.35%",
     "time": 835,
-    "timeDay": 797,
+    "timeDay": 805,
     "timeWeek": 791,
-    "timeMonth": 836,
+    "timeMonth": 837,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-08-17": 25,
+      "2025-08-17": 17,
       "2025-08-16": 118,
       "2025-08-15": 480,
       "2025-08-14": 110,
@@ -240,7 +241,8 @@
       "2025-07-30": 79,
       "2025-07-29": 51,
       "2025-07-28": 89,
-      "2025-07-27": 164
+      "2025-07-27": 164,
+      "2025-07-26": 32
     }
   }
 ]
