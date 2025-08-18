@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "94.63%",
     "uptimeDay": "95.57%",
-    "uptimeWeek": "92.32%",
+    "uptimeWeek": "92.61%",
     "uptimeMonth": "94.41%",
     "uptimeYear": "94.63%",
     "time": 1367,
@@ -102,18 +102,19 @@
     "url": "https://vissaversa.com",
     "icon": "https://icons.duckduckgo.com/ip3/vissaversa.com.ico",
     "slug": "vissaversa",
-    "status": "up",
-    "uptime": "94.56%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "94.56%",
+    "status": "down",
+    "uptime": "94.63%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "94.63%",
     "time": 808,
     "timeDay": 884,
     "timeWeek": 827,
     "timeMonth": 808,
     "timeYear": 808,
     "dailyMinutesDown": {
+      "2025-08-18": 1,
       "2025-08-17": 32,
       "2025-08-16": 119,
       "2025-08-15": 62,
@@ -135,7 +136,7 @@
       "2025-07-30": 81,
       "2025-07-29": 52,
       "2025-07-28": 91,
-      "2025-07-27": 84
+      "2025-07-27": 52
     }
   },
   {
@@ -206,18 +207,19 @@
     "url": "https://floordenil.com",
     "icon": "https://icons.duckduckgo.com/ip3/floordenil.com.ico",
     "slug": "floordenil",
-    "status": "up",
-    "uptime": "93.51%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "88.75%",
-    "uptimeMonth": "93.25%",
-    "uptimeYear": "93.51%",
+    "status": "down",
+    "uptime": "93.57%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "89.05%",
+    "uptimeMonth": "93.31%",
+    "uptimeYear": "93.57%",
     "time": 834,
     "timeDay": 837,
     "timeWeek": 791,
     "timeMonth": 836,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2025-08-18": 0,
       "2025-08-17": 32,
       "2025-08-16": 118,
       "2025-08-15": 480,
@@ -239,7 +241,7 @@
       "2025-07-30": 79,
       "2025-07-29": 51,
       "2025-07-28": 89,
-      "2025-07-27": 164
+      "2025-07-27": 138
     }
   }
 ]
