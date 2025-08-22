@@ -6,17 +6,17 @@
     "slug": "celta",
     "status": "up",
     "uptime": "95.14%",
-    "uptimeDay": "92.86%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "94.16%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "95.14%",
-    "time": 1298,
-    "timeDay": 736,
+    "time": 1297,
+    "timeDay": 750,
     "timeWeek": 881,
-    "timeMonth": 933,
-    "timeYear": 1298,
+    "timeMonth": 929,
+    "timeYear": 1297,
     "dailyMinutesDown": {
-      "2025-08-22": 103,
+      "2025-08-22": 91,
       "2025-08-21": 133,
       "2025-08-20": 170,
       "2025-08-19": 73,
@@ -37,7 +37,7 @@
       "2025-08-04": 147,
       "2025-08-03": 144,
       "2025-08-02": 124,
-      "2025-08-01": 69
+      "2025-08-01": 88
     }
   },
   {
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1295,
-    "timeDay": 1126,
-    "timeWeek": 1199,
-    "timeMonth": 1206,
-    "timeYear": 1295,
+    "time": 1294,
+    "timeDay": 1277,
+    "timeWeek": 1188,
+    "timeMonth": 1195,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2025-08-05": 18
     }
@@ -65,18 +65,20 @@
     "url": "https://www.flyinggroup.aero",
     "icon": "https://icons.duckduckgo.com/ip3/www.flyinggroup.aero.ico",
     "slug": "flyinggroup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5072,
-    "timeDay": 5311,
-    "timeWeek": 4403,
-    "timeMonth": 5315,
-    "timeYear": 5072,
-    "dailyMinutesDown": {}
+    "time": 5039,
+    "timeDay": 3214,
+    "timeWeek": 4089,
+    "timeMonth": 5295,
+    "timeYear": 5039,
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "Salkaperu",
@@ -89,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 3120,
-    "timeDay": 3160,
-    "timeWeek": 3114,
-    "timeMonth": 3187,
-    "timeYear": 3120,
+    "time": 3131,
+    "timeDay": 3631,
+    "timeWeek": 3079,
+    "timeMonth": 3251,
+    "timeYear": 3131,
     "dailyMinutesDown": {
       "2025-08-05": 18
     }
@@ -104,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vissaversa.com.ico",
     "slug": "vissaversa",
     "status": "up",
-    "uptime": "95.29%",
-    "uptimeDay": "93.98%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "95.29%",
+    "uptime": "95.28%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "94.17%",
+    "uptimeMonth": "94.33%",
+    "uptimeYear": "95.28%",
     "time": 811,
-    "timeDay": 759,
-    "timeWeek": 832,
-    "timeMonth": 813,
+    "timeDay": 767,
+    "timeWeek": 831,
+    "timeMonth": 812,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2025-08-22": 87,
+      "2025-08-22": 75,
       "2025-08-21": 131,
       "2025-08-20": 71,
       "2025-08-19": 72,
@@ -137,7 +139,7 @@
       "2025-08-03": 142,
       "2025-08-02": 121,
       "2025-08-01": 87,
-      "2025-07-31": 67
+      "2025-07-31": 84
     }
   },
   {
@@ -151,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.32%",
-    "time": 1363,
-    "timeDay": 1080,
-    "timeWeek": 1009,
-    "timeMonth": 1520,
-    "timeYear": 1363,
+    "time": 1360,
+    "timeDay": 1083,
+    "timeWeek": 1001,
+    "timeMonth": 1528,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2025-08-07": 98,
       "2025-08-06": 18,
@@ -174,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1085,
-    "timeDay": 1075,
-    "timeWeek": 1127,
-    "timeMonth": 1109,
-    "timeYear": 1085,
+    "time": 1076,
+    "timeDay": 658,
+    "timeWeek": 1050,
+    "timeMonth": 1104,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-08-05": 17
     }
@@ -194,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1283,
-    "timeDay": 3053,
-    "timeWeek": 1411,
-    "timeMonth": 1424,
-    "timeYear": 1283,
+    "time": 1485,
+    "timeDay": 8171,
+    "timeWeek": 2797,
+    "timeMonth": 1726,
+    "timeYear": 1485,
     "dailyMinutesDown": {
       "2025-07-26": 22
     }
@@ -210,17 +212,17 @@
     "slug": "floordenil",
     "status": "up",
     "uptime": "94.46%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "94.27%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "93.34%",
     "uptimeYear": "94.46%",
     "time": 858,
-    "timeDay": 815,
+    "timeDay": 823,
     "timeWeek": 930,
-    "timeMonth": 868,
+    "timeMonth": 867,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2025-08-22": 86,
+      "2025-08-22": 75,
       "2025-08-21": 113,
       "2025-08-20": 71,
       "2025-08-19": 72,
@@ -242,7 +244,7 @@
       "2025-08-03": 142,
       "2025-08-02": 119,
       "2025-08-01": 85,
-      "2025-07-31": 166
+      "2025-07-31": 183
     }
   }
 ]
