@@ -65,19 +65,19 @@
     "url": "https://www.flyinggroup.aero",
     "icon": "https://icons.duckduckgo.com/ip3/www.flyinggroup.aero.ico",
     "slug": "flyinggroup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5008,
-    "timeDay": 5328,
-    "timeWeek": 4083,
-    "timeMonth": 5003,
-    "timeYear": 5008,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 4997,
+    "timeDay": 5003,
+    "timeWeek": 4110,
+    "timeMonth": 4987,
+    "timeYear": 4997,
     "dailyMinutesDown": {
-      "2025-08-24": 0
+      "2025-08-24": 9
     }
   },
   {
