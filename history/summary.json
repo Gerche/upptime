@@ -12,8 +12,8 @@
     "uptimeYear": "95.52%",
     "time": 1244,
     "timeDay": 957,
-    "timeWeek": 882,
-    "timeMonth": 858,
+    "timeWeek": 884,
+    "timeMonth": 857,
     "timeYear": 1244,
     "dailyMinutesDown": {
       "2025-08-26": 151,
@@ -66,19 +66,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.flyinggroup.aero.ico",
     "slug": "flyinggroup",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4890,
     "timeDay": 3244,
     "timeWeek": 4108,
     "timeMonth": 4747,
     "timeYear": 4890,
-    "dailyMinutesDown": {
-      "2025-08-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Salkaperu",
@@ -114,7 +112,7 @@
     "time": 821,
     "timeDay": 907,
     "timeWeek": 862,
-    "timeMonth": 826,
+    "timeMonth": 825,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2025-08-26": 150,
@@ -218,8 +216,8 @@
     "uptimeYear": "94.92%",
     "time": 871,
     "timeDay": 1176,
-    "timeWeek": 903,
-    "timeMonth": 893,
+    "timeWeek": 905,
+    "timeMonth": 892,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2025-08-26": 148,
