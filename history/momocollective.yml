@@ -1,7 +1,7 @@
 url: https://momocollective.be
-status: up
-code: 200
-responseTime: 1448
-lastUpdated: 2025-08-30T20:17:51.375Z
+status: down
+code: 415
+responseTime: 611
+lastUpdated: 2025-08-30T21:26:59.504Z
 startTime: 2025-07-17T09:13:35.452Z
 generator: Upptime <https://github.com/upptime/upptime>
