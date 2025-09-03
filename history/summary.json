@@ -6,9 +6,9 @@
     "slug": "celta",
     "status": "up",
     "uptime": "96.39%",
-    "uptimeDay": "95.63%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "96.39%",
     "time": 1178,
     "timeDay": 784,
@@ -16,7 +16,7 @@
     "timeMonth": 859,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2025-09-03": 63,
+      "2025-09-03": 51,
       "2025-09-02": 156,
       "2025-09-01": 133,
       "2025-08-31": 41,
@@ -38,7 +38,8 @@
       "2025-08-15": 78,
       "2025-08-14": 112,
       "2025-08-13": 161,
-      "2025-08-12": 108
+      "2025-08-12": 108,
+      "2025-08-11": 19
     }
   },
   {
@@ -84,18 +85,19 @@
     "url": "https://salkaperu.be",
     "icon": "https://salkaperu.be/wp-content/uploads/2024/10/cropped-favicon-32x32.png",
     "slug": "salkaperu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 3266,
-    "timeDay": 4047,
-    "timeWeek": 4194,
-    "timeMonth": 3400,
-    "timeYear": 3266,
+    "time": 3219,
+    "timeDay": 2267,
+    "timeWeek": 3731,
+    "timeMonth": 3314,
+    "timeYear": 3219,
     "dailyMinutesDown": {
+      "2025-09-03": 0,
       "2025-08-05": 18
     }
   },
@@ -105,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vissaversa.com.ico",
     "slug": "vissaversa",
     "status": "up",
-    "uptime": "96.54%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "93.23%",
-    "uptimeMonth": "94.47%",
-    "uptimeYear": "96.54%",
+    "uptime": "96.51%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "94.43%",
+    "uptimeYear": "96.51%",
     "time": 822,
     "timeDay": 776,
     "timeWeek": 820,
     "timeMonth": 833,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2025-09-03": 62,
+      "2025-09-03": 51,
       "2025-09-02": 156,
       "2025-09-01": 116,
       "2025-08-31": 40,
@@ -139,7 +141,7 @@
       "2025-08-14": 111,
       "2025-08-13": 160,
       "2025-08-12": 107,
-      "2025-08-11": 66
+      "2025-08-11": 94
     }
   },
   {
@@ -212,9 +214,9 @@
     "slug": "floordenil",
     "status": "up",
     "uptime": "88.76%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "54.10%",
-    "uptimeMonth": "82.07%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "54.45%",
+    "uptimeMonth": "82.06%",
     "uptimeYear": "88.76%",
     "time": 868,
     "timeDay": 760,
@@ -222,7 +224,7 @@
     "timeMonth": 889,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-09-03": 60,
+      "2025-09-03": 49,
       "2025-09-02": 140,
       "2025-09-01": 114,
       "2025-08-31": 40,
@@ -249,7 +251,8 @@
       "2025-08-10": 90,
       "2025-08-09": 25,
       "2025-08-08": 57,
-      "2025-08-07": 202
+      "2025-08-07": 202,
+      "2025-08-06": 17
     }
   }
 ]
