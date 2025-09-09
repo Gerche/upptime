@@ -4,19 +4,19 @@
     "url": "https://celta.be",
     "icon": "https://icons.duckduckgo.com/ip3/celta.be.ico",
     "slug": "celta",
-    "status": "up",
-    "uptime": "96.75%",
-    "uptimeDay": "90.94%",
+    "status": "down",
+    "uptime": "96.77%",
+    "uptimeDay": "90.88%",
     "uptimeWeek": "95.16%",
-    "uptimeMonth": "94.18%",
-    "uptimeYear": "96.75%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "96.77%",
     "time": 1146,
     "timeDay": 833,
     "timeWeek": 885,
     "timeMonth": 870,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2025-09-09": 131,
+      "2025-09-09": 132,
       "2025-09-08": 40,
       "2025-09-07": 76,
       "2025-09-06": 27,
@@ -41,7 +41,7 @@
       "2025-08-18": 52,
       "2025-08-17": 64,
       "2025-08-16": 121,
-      "2025-08-15": 62
+      "2025-08-15": 47
     }
   },
   {
@@ -109,19 +109,19 @@
     "url": "https://vissaversa.com",
     "icon": "https://icons.duckduckgo.com/ip3/vissaversa.com.ico",
     "slug": "vissaversa",
-    "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "90.99%",
+    "status": "down",
+    "uptime": "96.88%",
+    "uptimeDay": "90.96%",
     "uptimeWeek": "95.21%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "96.86%",
+    "uptimeMonth": "94.43%",
+    "uptimeYear": "96.88%",
     "time": 837,
     "timeDay": 1099,
     "timeWeek": 930,
     "timeMonth": 861,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2025-09-09": 130,
+      "2025-09-09": 131,
       "2025-09-08": 40,
       "2025-09-07": 74,
       "2025-09-06": 26,
@@ -147,7 +147,7 @@
       "2025-08-17": 32,
       "2025-08-16": 119,
       "2025-08-15": 62,
-      "2025-08-14": 61
+      "2025-08-14": 42
     }
   },
   {
@@ -219,12 +219,12 @@
     "url": "https://floordenil.com",
     "icon": "https://icons.duckduckgo.com/ip3/floordenil.com.ico",
     "slug": "floordenil",
-    "status": "up",
-    "uptime": "89.65%",
-    "uptimeDay": "91.05%",
+    "status": "down",
+    "uptime": "89.68%",
+    "uptimeDay": "91.03%",
     "uptimeWeek": "92.05%",
-    "uptimeMonth": "81.50%",
-    "uptimeYear": "89.65%",
+    "uptimeMonth": "81.54%",
+    "uptimeYear": "89.68%",
     "time": 868,
     "timeDay": 931,
     "timeWeek": 856,
@@ -259,8 +259,7 @@
       "2025-08-15": 480,
       "2025-08-14": 110,
       "2025-08-13": 158,
-      "2025-08-12": 107,
-      "2025-08-11": 18
+      "2025-08-12": 107
     }
   }
 ]
