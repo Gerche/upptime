@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/celta.be.ico",
     "slug": "celta",
     "status": "up",
-    "uptime": "96.77%",
-    "uptimeDay": "84.16%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "96.77%",
+    "uptime": "96.74%",
+    "uptimeDay": "85.06%",
+    "uptimeWeek": "94.48%",
+    "uptimeMonth": "94.12%",
+    "uptimeYear": "96.74%",
     "time": 1142,
-    "timeDay": 852,
+    "timeDay": 861,
     "timeWeek": 890,
     "timeMonth": 870,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2025-09-10": 97,
+      "2025-09-10": 84,
       "2025-09-09": 131,
       "2025-09-08": 40,
       "2025-09-07": 76,
@@ -41,7 +41,8 @@
       "2025-08-19": 73,
       "2025-08-18": 52,
       "2025-08-17": 64,
-      "2025-08-16": 92
+      "2025-08-16": 121,
+      "2025-08-15": 4
     }
   },
   {
@@ -111,17 +112,17 @@
     "slug": "vissaversa",
     "status": "up",
     "uptime": "96.86%",
-    "uptimeDay": "84.30%",
-    "uptimeWeek": "94.41%",
-    "uptimeMonth": "94.34%",
+    "uptimeDay": "85.17%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "96.86%",
     "time": 837,
-    "timeDay": 1027,
+    "timeDay": 1044,
     "timeWeek": 925,
     "timeMonth": 859,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2025-09-10": 97,
+      "2025-09-10": 84,
       "2025-09-09": 130,
       "2025-09-08": 40,
       "2025-09-07": 74,
@@ -147,7 +148,7 @@
       "2025-08-18": 83,
       "2025-08-17": 32,
       "2025-08-16": 119,
-      "2025-08-15": 46
+      "2025-08-15": 62
     }
   },
   {
@@ -200,9 +201,9 @@
     "url": "https://horal.be",
     "icon": "https://horal.be/wp-content/uploads/2022/12/cropped-Horal-fav-02-32x32.png",
     "slug": "horal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "96.92%",
+    "uptimeDay": "96.90%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
@@ -224,17 +225,17 @@
     "slug": "floordenil",
     "status": "up",
     "uptime": "89.72%",
-    "uptimeDay": "84.42%",
-    "uptimeWeek": "91.26%",
-    "uptimeMonth": "81.47%",
+    "uptimeDay": "85.28%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "81.46%",
     "uptimeYear": "89.72%",
     "time": 869,
-    "timeDay": 817,
+    "timeDay": 821,
     "timeWeek": 862,
     "timeMonth": 881,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-09-10": 96,
+      "2025-09-10": 84,
       "2025-09-09": 128,
       "2025-09-08": 378,
       "2025-09-07": 74,
@@ -263,7 +264,7 @@
       "2025-08-15": 480,
       "2025-08-14": 110,
       "2025-08-13": 158,
-      "2025-08-12": 42
+      "2025-08-12": 60
     }
   }
 ]
