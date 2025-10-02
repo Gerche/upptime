@@ -6,17 +6,17 @@
     "slug": "celta",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "94.32%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "94.45%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "97.74%",
     "time": 1073,
     "timeDay": 874,
     "timeWeek": 987,
-    "timeMonth": 914,
+    "timeMonth": 915,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2025-10-02": 29,
+      "2025-10-02": 16,
       "2025-10-01": 51,
       "2025-09-30": 92,
       "2025-09-29": 37,
@@ -43,7 +43,7 @@
       "2025-09-08": 40,
       "2025-09-07": 76,
       "2025-09-06": 27,
-      "2025-09-05": 38
+      "2025-09-05": 53
     }
   },
   {
@@ -113,9 +113,9 @@
     "slug": "vissaversa",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "94.34%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "94.50%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "97.76%",
     "time": 829,
     "timeDay": 770,
@@ -123,7 +123,7 @@
     "timeMonth": 836,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2025-10-02": 28,
+      "2025-10-02": 15,
       "2025-10-01": 50,
       "2025-09-30": 91,
       "2025-09-29": 36,
@@ -150,7 +150,7 @@
       "2025-09-08": 40,
       "2025-09-07": 74,
       "2025-09-06": 26,
-      "2025-09-05": 52
+      "2025-09-05": 70
     }
   },
   {
@@ -158,9 +158,9 @@
     "url": "https://momocollective.be",
     "icon": "https://icons.duckduckgo.com/ip3/momocollective.be.ico",
     "slug": "momocollective",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.64%",
@@ -170,6 +170,7 @@
     "timeMonth": 1269,
     "timeYear": 1247,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-09-29": 17,
       "2025-09-10": 23,
       "2025-09-09": 6,
@@ -230,9 +231,9 @@
     "slug": "floordenil",
     "status": "up",
     "uptime": "97.47%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "94.58%",
-    "uptimeMonth": "93.60%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "97.47%",
     "time": 887,
     "timeDay": 1253,
@@ -240,7 +241,7 @@
     "timeMonth": 906,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-10-02": 27,
+      "2025-10-02": 15,
       "2025-10-01": 50,
       "2025-09-30": 76,
       "2025-09-29": 35,
@@ -268,7 +269,7 @@
       "2025-09-07": 74,
       "2025-09-06": 26,
       "2025-09-05": 54,
-      "2025-09-04": 55
+      "2025-09-04": 72
     }
   }
 ]
