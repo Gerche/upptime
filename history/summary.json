@@ -6,17 +6,17 @@
     "slug": "celta",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "97.76%",
     "time": 1072,
-    "timeDay": 919,
-    "timeWeek": 992,
+    "timeDay": 925,
+    "timeWeek": 993,
     "timeMonth": 917,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2025-10-02": 42,
+      "2025-10-02": 33,
       "2025-10-01": 51,
       "2025-09-30": 92,
       "2025-09-29": 37,
@@ -43,7 +43,7 @@
       "2025-09-08": 40,
       "2025-09-07": 76,
       "2025-09-06": 27,
-      "2025-09-05": 22
+      "2025-09-05": 38
     }
   },
   {
@@ -113,9 +113,9 @@
     "slug": "vissaversa",
     "status": "up",
     "uptime": "97.78%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "94.35%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "97.78%",
     "time": 828,
     "timeDay": 810,
@@ -123,7 +123,7 @@
     "timeMonth": 836,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2025-10-02": 40,
+      "2025-10-02": 32,
       "2025-10-01": 50,
       "2025-09-30": 91,
       "2025-09-29": 36,
@@ -150,7 +150,7 @@
       "2025-09-08": 40,
       "2025-09-07": 74,
       "2025-09-06": 26,
-      "2025-09-05": 37
+      "2025-09-05": 52
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/floordenil.com.ico",
     "slug": "floordenil",
     "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "95.37%",
-    "uptimeMonth": "93.63%",
-    "uptimeYear": "97.50%",
+    "uptime": "97.49%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "97.49%",
     "time": 887,
-    "timeDay": 1137,
-    "timeWeek": 881,
+    "timeDay": 1146,
+    "timeWeek": 882,
     "timeMonth": 908,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-10-02": 40,
+      "2025-10-02": 32,
       "2025-10-01": 50,
       "2025-09-30": 76,
       "2025-09-29": 35,
@@ -268,7 +268,7 @@
       "2025-09-07": 74,
       "2025-09-06": 26,
       "2025-09-05": 54,
-      "2025-09-04": 30
+      "2025-09-04": 55
     }
   }
 ]
